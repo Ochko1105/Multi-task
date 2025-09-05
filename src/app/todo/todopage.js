@@ -1,9 +1,6 @@
 "use client";
 import { useEffect, useState } from "react";
 
-import { Page1 } from "./pageone";
-import { Page2 } from "./pagetwo";
-import { Page3 } from "./pagethree";
 import { motion } from "motion/react";
 
 const Home = () => {
